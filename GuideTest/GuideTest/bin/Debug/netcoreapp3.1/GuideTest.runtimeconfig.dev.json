@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/hulk/.dotnet/store/|arch|/|tfm|",
+      "/home/hulk/.nuget/packages"
+    ]
+  }
+}
