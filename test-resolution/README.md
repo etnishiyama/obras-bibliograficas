@@ -8,8 +8,8 @@ Forked from https://github.com/guideti/obras-bibliograficas
 
 ## How to run
 
- $ cd test-resolution/GuideTest
- $ dotnet run
+ - $ cd test-resolution/GuideTest
+ - $ dotnet run
 
 ## How to use
 
