@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hulk/moboweb/projects/guide-investimentos-test/GuideTest/GuideTest/GuideTest.csproj": {}
+    "/home/hulk/moboweb/projects/guide-investimentos-test/test-resolution/GuideTest/GuideTest.csproj": {}
   },
   "projects": {
-    "/home/hulk/moboweb/projects/guide-investimentos-test/GuideTest/GuideTest/GuideTest.csproj": {
+    "/home/hulk/moboweb/projects/guide-investimentos-test/test-resolution/GuideTest/GuideTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hulk/moboweb/projects/guide-investimentos-test/GuideTest/GuideTest/GuideTest.csproj",
+        "projectUniqueName": "/home/hulk/moboweb/projects/guide-investimentos-test/test-resolution/GuideTest/GuideTest.csproj",
         "projectName": "GuideTest",
-        "projectPath": "/home/hulk/moboweb/projects/guide-investimentos-test/GuideTest/GuideTest/GuideTest.csproj",
+        "projectPath": "/home/hulk/moboweb/projects/guide-investimentos-test/test-resolution/GuideTest/GuideTest.csproj",
         "packagesPath": "/home/hulk/.nuget/packages/",
-        "outputPath": "/home/hulk/moboweb/projects/guide-investimentos-test/GuideTest/GuideTest/obj/",
+        "outputPath": "/home/hulk/moboweb/projects/guide-investimentos-test/test-resolution/GuideTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hulk/.nuget/NuGet/NuGet.Config"
